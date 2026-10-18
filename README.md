@@ -1,47 +1,58 @@
-<p align="left">
-  <img src="public/assets/logo-modern-transparent.png" width="112" alt="Modern Construction for Contracting">
-</p>
+![Modern Construction for Contracting, with its green logo and architectural cover artwork](docs/readme/cover.webp)
 
-# Modern · Construction for Contracting
+# Modern — Construction for Contracting
 
-**From exploring the work to starting a project conversation.**
+**Explore the work, find the right service, and start a project conversation.**
 
-**Portfolio showcase.** Application source code remains private.
-This public presentation includes selected website captures and project imagery.
+A bilingual website for Modern Construction for Contracting. Service pages,
+project galleries, and context-aware inquiry links help visitors describe what
+they need and give the team a useful starting point for the conversation.
 
-A bilingual website for Modern Construction for Contracting, bringing the
-company's services, project portfolio, and inquiry experience into one place.
-Visitors can explore construction disciplines, look through project imagery,
-and share the context the team needs to discuss their requirements.
+**Public portfolio showcase.** Application source code remains private. This
+presentation includes selected interface captures and existing project imagery.
 
-[Explore Modern](https://www.moderngroupco.com/) ·
-[Services](https://www.moderngroupco.com/our-services) ·
-[Project portfolio](https://www.moderngroupco.com/projects) ·
-[Start an inquiry](https://www.moderngroupco.com/contact-us)
+[Explore Modern](https://www.moderngroupco.com/)
 
-![Modern home page with its green identity, construction crane, and city skyline](docs/readme/screenshots/home-city.png)
+![Modern's home page with service navigation and a city-skyline hero](docs/readme/screenshots/home-city.webp)
 
-## <img src="docs/readme/icons/service-icon-construction.svg" width="24" height="24" alt=""> A clear introduction to the company
+## <img src="docs/readme/icons/features.svg" width="24" height="24" alt=""> Features
+
+- Explore seven service disciplines and continue into a relevant inquiry.
+- Filter the project portfolio and open galleries, scope, and supporting details.
+- Carry service or project context into a structured contact form.
+- Browse in English or Arabic, with right-to-left layouts and light/dark themes.
+
+## <img src="docs/readme/icons/launch.svg" width="24" height="24" alt=""> Try the showcase
+
+| Start here | What to look for |
+| --- | --- |
+| [Services](https://www.moderngroupco.com/our-services) | Select a discipline and follow its inquiry action. |
+| [Projects](https://www.moderngroupco.com/projects) | Filter by discipline and open a project's gallery. |
+| [Contact](https://www.moderngroupco.com/contact-us) | Review the request type, service, location, and timeline fields. |
+
+A service inquiry should open the contact experience with the relevant context
+selected. The contact form is a business inquiry channel; submit only genuine
+requests. The materials-page capture below shows a preparation state, rather
+than a completed online marketplace.
+
+## <img src="docs/readme/icons/usage.svg" width="24" height="24" alt=""> Usage
+
+### <img src="docs/readme/icons/overview.svg" width="20" height="20" alt=""> Company presentation
 
 The home page introduces Modern through construction imagery, service previews,
-selected work, and direct routes into an inquiry. A consistent green identity
-connects the opening presentation with the rest of the site.
-
-**English and Arabic. Light and dark themes. Responsive layouts.**
-Language selection includes right-to-left presentation for Arabic visitors.
+selected work, and direct routes into an inquiry. The green identity connects
+that opening presentation with the rest of the experience.
 
 <details>
 <summary>View the alternate construction hero</summary>
 
-![Modern's alternate home hero with monochrome construction-site photography](docs/readme/screenshots/home-construction.png)
+![Alternate home hero with monochrome construction-site photography](docs/readme/screenshots/home-construction.webp)
 
 </details>
 
-## <img src="docs/readme/icons/service-icon-design.svg" width="24" height="24" alt=""> Find the right service
+### <img src="docs/readme/icons/usage.svg" width="20" height="20" alt=""> Find a service
 
-![Service tabs showing the construction discipline, supporting imagery, and request-service action](docs/readme/screenshots/services.png)
-
-Seven service areas make the company's work easier to explore:
+![Service tabs, construction details, and the request-service action](docs/readme/screenshots/services.webp)
 
 | Discipline | Focus |
 | --- | --- |
@@ -53,91 +64,109 @@ Seven service areas make the company's work easier to explore:
 | Woodwork | Joinery and interior wood applications |
 | Structural glazing | Glass facades and glazing systems |
 
-Visitors can move from a service into the contact form with the relevant
-discipline already selected, keeping the inquiry connected to what they viewed.
+Service links carry the selected discipline into the inquiry form, keeping the
+request connected to what the visitor was exploring.
 
-## <img src="docs/readme/icons/service-icon-glazing.svg" width="24" height="24" alt=""> Explore the project portfolio
+### <img src="docs/readme/icons/projects.svg" width="20" height="20" alt=""> Explore project galleries
 
-![Tolip Hotel imagery from Modern's existing project portfolio](public/assets/projects/tolip-hotel/tolip-hotel-02.webp)
+![Tolip Hotel imagery from the existing Modern portfolio](docs/readme/photos/tolip-hotel.webp)
 
 Category filters group the portfolio by discipline. Opening a project brings
-its gallery, scope, and supporting details into focus, helping visitors move
-from a broad service category to a specific example of the work.
-
-The selections below come from the project's existing portfolio assets.
-They include site photography, architectural drawings, and design imagery.
+its gallery, scope, and supporting details into focus. The selections below
+come from existing portfolio assets and include photographs, an architectural
+site plan, and interior-design imagery.
 
 <details>
 <summary>View construction and design selections</summary>
 
-### Chinese Tower
+**Chinese Tower**
 
-![Reinforcement and formwork shown in the Chinese Tower project gallery](public/assets/projects/chinese-tower/chinese-tower-01.webp)
+![Reinforcement and formwork from the Chinese Tower gallery](docs/readme/photos/chinese-tower.webp)
 
-### King Abdulaziz Airport Training Center
+**King Abdulaziz Airport Training Center**
 
-![Architectural site plan from the training-center design portfolio](public/assets/projects/king-abdulaziz-airport-training-center/king-abdulaziz-airport-training-center-02.webp)
+![Architectural site plan from the training-center design portfolio](docs/readme/photos/training-center.webp)
 
 </details>
 
 <details>
 <summary>View glazing, stonework, and woodwork selections</summary>
 
-### Glazing systems
+**Glazing systems**
 
-<img src="public/assets/projects/stick-glazing/stick-glazing-01.webp" width="440" alt="Glass facade detail from the stick-glazing portfolio">
+<img src="docs/readme/photos/stick-glazing.webp" width="440" alt="Glass facade detail from the stick-glazing portfolio">
 
-### Marble finishes
+**Marble finishes**
 
-<img src="public/assets/projects/marble-projects/marble-projects-01.webp" width="440" alt="Polished marble flooring from the stonework portfolio">
+<img src="docs/readme/photos/marble-projects.webp" width="440" alt="Polished marble flooring from the stonework portfolio">
 
-### Interior woodwork
+**Interior woodwork**
 
-<img src="public/assets/projects/wooden-wall-and-ceiling-covering/wooden-wall-and-ceiling-covering-01.webp" width="560" alt="Bedroom design imagery showing wooden wall and ceiling coverings">
+<img src="docs/readme/photos/interior-woodwork.webp" width="560" alt="Bedroom design imagery showing wooden wall and ceiling coverings">
 
 </details>
 
-## <img src="docs/readme/icons/service-icon-materials.svg" width="24" height="24" alt=""> A materials desk in preparation
+### <img src="docs/readme/icons/catalog.svg" width="20" height="20" alt=""> Plan a materials request
 
-![Materials preparation page with catalog and request-flow status](docs/readme/screenshots/materials-preparation.png)
+![Materials desk showing catalog and request-flow preparation](docs/readme/screenshots/materials-preparation.webp)
 
-The supplied materials-page capture presents the catalog and request flow as
-being prepared. Visitors are directed toward planning a materials request and
-discussing their needs with the team. This is an inquiry journey rather than
-an online checkout.
+The supplied capture presents the catalog and request flow as being prepared.
+Visitors are directed toward planning a materials request and discussing their
+needs with the team. This journey does not provide an online checkout.
 
-## <img src="docs/readme/icons/service-icon-cable.svg" width="24" height="24" alt=""> Give the conversation useful context
+### <img src="docs/readme/icons/contact.svg" width="20" height="20" alt=""> Start an inquiry
 
-<img src="docs/readme/screenshots/contact-intake.png" width="760" alt="Modern contact form with request type, service discipline, contact details, location, timeline, subject, and request details">
+<img src="docs/readme/screenshots/contact-intake.webp" width="760" alt="Contact form with request type, service discipline, contact details, location, timeline, subject, and request details">
 
-The contact experience collects the request type, relevant discipline, contact
-details, project location, target timeline, and a written brief. Links from
-services and projects carry context into the form so visitors can continue
-their inquiry without starting over.
+The form collects the request type, relevant discipline, contact details,
+project location, target timeline, and a written brief. Service and project
+links carry context into the form so visitors can continue without starting over.
 
-Submissions are validated on the server. Email delivery depends on the configured
-email service; the form provides feedback when a request cannot be sent.
+Server-side validation checks submissions. Email delivery depends on the
+configured email service; the form provides feedback when a request cannot be
+sent. Modern AI offers another route to service and project information, with
+provider-backed responses dependent on runtime configuration and a local
+fallback available in the application.
 
-Modern AI provides an additional way to ask about services, projects, and how
-to prepare an inquiry. Provider-backed responses depend on runtime configuration;
-the app also includes a local fallback.
+## <img src="docs/readme/icons/architecture.svg" width="24" height="24" alt=""> Architecture
 
-## Behind the experience
+TanStack Start connects the React interface to server functions for inquiries
+and assistant requests. Language resources support English and Arabic, while
+shared navigation helpers preserve the context of an inquiry across pages.
 
 | Layer | Implementation |
 | --- | --- |
 | Application | React, TypeScript, and TanStack Start |
 | Navigation | TanStack Router |
-| Styling and motion | Tailwind CSS, Motion, and React Aria Components |
+| Styling and interaction | Tailwind CSS, Motion, and React Aria Components |
 | Languages | i18next with English and Arabic resources |
 | Runtime | Vite development and Cloudflare Workers configuration |
 | Inquiry delivery | Server-side validation and Resend integration |
 
+## <img src="docs/readme/icons/verification.svg" width="24" height="24" alt=""> Verification
 
----
+Documentation checks validate local image references, private/public export
+boundaries, brand-green icon geometry, and the publishing command's behavior
+from another working directory. Raster conversions preserve dimensions and
+decoded pixels; a staged secret scan precedes public publication.
+
+
+## <img src="docs/readme/icons/security.svg" width="24" height="24" alt=""> Security and limitations
+
+- Application source, private history, deployment workflows, and credentials
+  stay in the private repository. The public repository holds presentation files.
+- Screenshots show the supplied interface state; they do not verify current
+  email delivery, AI-provider access, or completion of the materials marketplace.
+- The cover is illustrative brand artwork. Portfolio captions distinguish site
+  photography, drawings, and design imagery.
+
+## <img src="docs/readme/icons/owner.svg" width="24" height="24" alt=""> Maintainer
 
 Website designed and developed by **[Abdulrahman M. Yaqyn](https://yaqyn.dev/)**.
-Modern branding and portfolio imagery represent the client and its project material.
+Business inquiries belong in [Modern's contact form](https://www.moderngroupco.com/contact-us).
 
-This showcase grants no software distribution license. Branding and portfolio
-materials remain subject to their respective rights holders' permissions.
+## <img src="docs/readme/icons/license.svg" width="24" height="24" alt=""> License and acknowledgments
+
+This showcase grants no software distribution license. Modern's branding and
+portfolio imagery represent the client and its project material and remain
+subject to their respective rights holders' permissions.
