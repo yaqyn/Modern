@@ -1,4 +1,4 @@
-<a href="docs/readme/cover.webp"><img src="docs/readme/cover.gif" width="100%" alt="Modern Construction for Contracting — green brand mark beside three descending architectural forms"></a>
+<a href="docs/readme/cover.webp"><img src="docs/readme/cover-story.gif" width="100%" alt="Modern Construction for Contracting — green brand mark beside three descending architectural forms"></a>
 
 # Modern — Construction for Contracting
 
