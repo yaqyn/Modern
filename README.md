@@ -167,6 +167,11 @@ Business inquiries belong in [Modern's contact form](https://www.moderngroupco.c
 
 ## <img src="docs/readme/icons/license.svg" width="24" height="24" alt=""> License and acknowledgments
 
-This showcase grants no software distribution license. Modern's branding and
-portfolio imagery represent the client and its project material and remain
-subject to their respective rights holders' permissions.
+Copyright (c) 2026 Abdulrahman M. Yaqyn. All rights reserved.
+Modern is proprietary client software. Use, copying, modification, and
+redistribution require written permission or an applicable written agreement.
+See [LICENSE](LICENSE).
+
+Client rights remain governed by their written agreement. Third-party software,
+branding, and portfolio materials retain their respective rights and licenses.
+The public showcase does not grant a software distribution license.
